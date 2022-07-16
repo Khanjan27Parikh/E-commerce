@@ -1,0 +1,5 @@
+{
+  "git.branchRandomName.enable": false,
+  "git.decorations.enabled": true,
+  "git.enabled": true
+}
